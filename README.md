@@ -1,7 +1,7 @@
 # R36S-V20-rf3536k3ka
 A repository for information regarding R36S V20 clones under revision 2025-05-18 and the rf3536k3ka.dtb.
 
-After purchasing a Temu-special R36S, I was cursed with receiving a R36S-V20-2025-05-18 clone. Unfortunately, this device uses the rf3536k3ka.dtb, which is not currently found at https://r36s.dpdns.org/dtbTools.html. 
+After purchasing multiple Temu-special R36S, I was cursed with receiving a R36S-V20-2025-05-18 clone. Unfortunately, this device uses the rf3536k3ka.dtb, which is not currently found at https://r36s.dpdns.org/dtbTools.html. 
 
 There are multiple issues with this particular device and I've spent some time trying to diagnose and repair what I can. This repository will serve as a central location for anything related to this device. 
 
