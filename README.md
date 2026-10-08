@@ -15,7 +15,8 @@ Initial Problems:
 Bonus problem:
 - SD cards are, as expected at 30 USD, counterfeit and falsely marked as 128GB. They are in fact 16GB containing both an installation of ARKOS (08232024) and roms on the partitions. The ROMS partition has corrupted game files that I have not yet addressed.
 
-Findings & Resolved Issues
-- Systems seem to come with corrupted SD cards that cannot be viewed in file managers (partially resolved)
+(Partially) Resolved Issues
+- Systems come with corrupted SD cards that cannot be viewed in file managers (partially resolved)
   - You can find documentation here on how I was able to get the SD card in a readable state.
-- Install ARKOS
+- Stable installation of ArkOS_K36_v2.0_08112025, however the battery percentage is not accurate. Power management seems to be running fine.
+  - See the ArkOS_K36-Installation for installation documentation and troubleshooting progress
