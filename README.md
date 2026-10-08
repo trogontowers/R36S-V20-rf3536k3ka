@@ -17,7 +17,7 @@ Bonus problem:
 
 (Partially) Resolved Issues
 - Systems come with corrupted SD cards that cannot be viewed in file managers (partially resolved)
-  - You can find documentation here on how I was able to get the SD card in a readable state.
-  - This also resolved intermittent audio issues.
+  - You can find documentation here on how I was able to get the stock SD card in a readable state.
+  - This also resolved intermittent audio issues using the preloaded ARKOS installation.
 - Stable installation of ArkOS_K36_v2.0_08112025, however the battery percentage is not accurate. Power management seems to be running fine.
   - See the ArkOS_K36-Installation for installation documentation and troubleshooting progress
